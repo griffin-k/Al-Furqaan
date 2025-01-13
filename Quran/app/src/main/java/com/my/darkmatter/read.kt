@@ -77,7 +77,7 @@ fun HadithScreen() {
 fun HadithCardUI(hadith: String) {
     Scaffold(
         modifier = Modifier.fillMaxSize(),
-        containerColor = Color.Black // Set background color to black
+        containerColor = Color.Black
     ) { padding ->
         Box(
             modifier = Modifier
@@ -91,7 +91,7 @@ fun HadithCardUI(hadith: String) {
                     .padding(16.dp)
                     .fillMaxWidth(),
                 elevation = CardDefaults.cardElevation(8.dp),
-                colors = CardDefaults.cardColors(containerColor = Color.White) // Card background color
+                colors = CardDefaults.cardColors(containerColor = Color.White)
             ) {
                 Column(
                     modifier = Modifier.padding(16.dp),
