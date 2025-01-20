@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "840411470236",
+    "firebase_url": "https://quran-e9789-default-rtdb.firebaseio.com",
+    "project_id": "quran-e9789",
+    "storage_bucket": "quran-e9789.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840411470236:android:2a397d009c06c1e1b09059",
+        "android_client_info": {
+          "package_name": "com.my.darkmatter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKuRF4e_11n1SJ_1VbdPxQPkKy5H6Po0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
